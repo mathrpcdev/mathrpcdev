@@ -19,7 +19,8 @@
 </div>
    
 
- I'm a _**Social Scient**_ student at **UERJ** and also _**Information System's**_ student at **Faculdade Digital Descomplica**!
+ I'm a Software Developer and _**Social Scientist**_ student at **UERJ** and also _**Information System's**_ student at **Faculdade Digital Descomplica**!
+Looking for an opportunity to work with maintenance and software development.
 
 📙Currently I'm focusing learning *Java* .
 To see more information about my researcher and professional life, do not hesitate to click on my *Linkedin* button!
