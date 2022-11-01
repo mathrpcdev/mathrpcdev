@@ -15,8 +15,6 @@
   
  ##
 <div> 
-  <a href="mailto:mathrpc@outlook.com"><img src="https://www.fastmetrics.com/support/wp-content/uploads/2016/12/microsoft-office-outlook-email-logo.png" width: "87.25"
-    height: "28"</a>
   <a href="mailto:cavalcantematrp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-cavalcante-programador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
