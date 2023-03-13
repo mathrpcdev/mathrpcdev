@@ -9,8 +9,7 @@
 <div>
 <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />       
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />         
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />              
 </div>
   
  ##
@@ -20,10 +19,10 @@
 </div>
    
 
- I'm a Software Developer and _**Social Scientist**_ student at **UERJ** and also _**Information System's**_ student at **Faculdade Digital Descomplica**!
+ I'm a Software Developer and _**Social Scientist**_ student at **UERJ**!
 Looking for an opportunity to work with maintenance and software development.
 
-📙Currently I'm focusing learning *C# and .NET* .
+📙Currently I'm focusing learning *C# and .NET* at Microsoft Learn.
 To see more information about my researcher and professional life, do not hesitate to click on my *Linkedin* button!
 
 ![Snake animation](https://github.com/mathrpcdev/mathrpcdev/blob/output/github-contribution-grid-snake.svg)
