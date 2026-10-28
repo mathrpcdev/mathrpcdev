@@ -1,5 +1,6 @@
-### Hello, I'm Matheus Cavalcante! 👋
-### It's a pleasure having you here!😊 
+## Antropólogo e mestrando em Ciências Sociais - UERJ.
+## Pesquiso as diferenças de paradigmas entre estatísticas tradicionais e ciências de dados na produção de dados oficiais nacionais no IBGE.
+## Foco atual: R/RStudio, estatísticas e Ciências Sociais Computacionais.
 <div align="center">
   <a href="https://github.com/mathrpcdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathrpcdev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -18,12 +19,7 @@
   <a href="https://www.linkedin.com/in/matheus-cavalcantee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
-
- I'm a Software Developer and _**Social Scientist**_ student at **UERJ**!
-Looking for an opportunity to work with maintenance and software development.
-
-📙Currently I'm focusing learning *C# and .NET* at Microsoft Learn.
-To see more information about my researcher and professional life, do not hesitate to click on my *Linkedin* button!
+📙Currently I'm focusing learning R/RStudio and Statistcs.
 
 ![Snake animation](https://github.com/mathrpcdev/mathrpcdev/blob/output/github-contribution-grid-snake.svg)
 <img align="right" height="350" width="360" src="https://user-images.githubusercontent.com/96153654/177018283-8bb4bbed-e843-4056-bba7-08181b8afcf3.png" />
