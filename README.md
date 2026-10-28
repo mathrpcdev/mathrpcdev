@@ -14,10 +14,16 @@
 </div>
   
  ##
-<div> 
-  <a href="mailto:cavalcantematrp@gmail.com"><img src="![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-cavalcantee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ <p align="left">
+  <!-- Redes de Contato -->
+  <a href="https://www.linkedin.com/in/matheus-cavalcantee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cavalcantematrp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <!-- Ferramentas e Linguagens -->
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"><img src="https://img.shields.io/badge/RStudio-478CB5?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" /></a>
+</p>
+
+Currently I'm focusing learning R/RStudio and Statistics.
    
 📙Currently I'm focusing learning R/RStudio and Statistcs.
 
