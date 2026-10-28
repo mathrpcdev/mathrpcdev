@@ -2,14 +2,14 @@
 
 **Anthropologist & Computational Social Science Researcher**
 
-Specializing in methodological triangulation, bridging qualitative inquiry (ethnography and subjectivities) with the analytical rigor of statistics and data science.
+Specializing in methodological triangulation, bridging **qualitative inquiry** (ethnography and subjectivities) with the analytical rigor of **statistics and data science**.
 
 ---
 
 ### 🔬 Research & Focus
-- 🎓 **Academia:** Master's Candidate at the [Postgraduate Program in Social Sciences (PPCIS)](https://ppcis.com.br/) at [UERJ](https://www.uerj.br/) (State University of Rio de Janeiro) — *expected completion: December 2027*.
-- 📊 **Current Research:** Epistemological paradigms: traditional statistics vs. data science in official national statistics at the [Brazilian Institute of Geography and Statistics](https://www.ibge.gov.br/pt/inicio.html) (Instituto Brasileiro de Geografia e Estatística - IBGE).
-- 🧠 **Background:** Strong foundation in qualitative methodology and ethnography of emotions and affects, currently expanding into statistical modeling and computational workflows.
+- 🎓 **Academia:** **Master's** Candidate at the [Postgraduate Program in Social Sciences (PPCIS)](https://ppcis.com.br/) at [**UERJ**](https://www.uerj.br/) (State University of Rio de Janeiro) — *expected completion: December 2027*.
+- 📊 **Current Research:** **Epistemological paradigms**: traditional statistics vs. data science in official national statistics at the [Brazilian Institute of Geography and Statistics](https://www.ibge.gov.br/pt/inicio.html) (Instituto Brasileiro de Geografia e Estatística - **IBGE**).
+- 🧠 **Background:** Strong foundation in qualitative methodology and ethnography of emotions, subjectivities and affects, currently expanding into **statistical modeling and computational workflows**.
 
 ---
 
