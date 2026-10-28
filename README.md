@@ -1,6 +1,6 @@
-## Antropólogo e mestrando em Ciências Sociais - UERJ.
-## Pesquiso as diferenças de paradigmas entre estatísticas tradicionais e ciências de dados na produção de dados oficiais nacionais no IBGE.
-## Foco atual: R/RStudio, estatísticas e Ciências Sociais Computacionais.
+# Antropólogo e mestrando em Ciências Sociais - UERJ.
+# Pesquiso as diferenças de paradigmas entre estatísticas tradicionais e ciências de dados na produção de dados oficiais nacionais no IBGE.
+# Foco atual: R/RStudio, estatísticas e Ciências Sociais Computacionais.
 <div align="center">
   <a href="https://github.com/mathrpcdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathrpcdev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
   
  ##
 <div> 
-  <a href="mailto:cavalcantematrp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cavalcantematrp@gmail.com"><img src="![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-cavalcantee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
